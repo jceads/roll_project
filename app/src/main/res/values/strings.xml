@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">e-Yoklama</string>
+    <string name="btn_login">Login</string>
+    <string name="usernameHint">User name</string>
+    <string name="passwordHint">password</string>
+    <string name="btn_here">here</string>
+    <string name="btN_absent">absent</string>
+    <string name="listofAbsent">Absent List</string>
+    <string name="FailureLogin">username or password is wrong </string>
+    <string name="loginSucces">Login succes</string>
+    <string name="absent_person">Absent List</string>
+    <string name="okay">Okay</string>
+
+</resources>

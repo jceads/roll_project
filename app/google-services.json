@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "954262662177",
+    "project_id": "yoklamauygulamasi",
+    "storage_bucket": "yoklamauygulamasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954262662177:android:fe567d6b18d5f40eef0760",
+        "android_client_info": {
+          "package_name": "com.example.proje_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954262662177-vhpbb91nnshqj2766n5lbl3neiqdgq0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYNeaz2kYcSCkLYPGCHJjnMZ3pAcHwDdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954262662177-vhpbb91nnshqj2766n5lbl3neiqdgq0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<students>
+    <student>
+        <studentID>0</studentID>
+        <name>Elmo Padilla</name>
+        <StudentRoll>false</StudentRoll>
+    </student>
+
+    <student>
+        <studentID>1</studentID>
+        <name>Gage Petersen</name>
+        <StudentRoll>false</StudentRoll>
+    </student>
+
+    <student>
+        <studentID>2</studentID>
+        <name>Vera Logan</name>
+        <StudentRoll>false</StudentRoll>
+    </student>
+
+    <student>
+        <studentID>3</studentID>
+        <name>Iliana Olsen</name>
+        <StudentRoll>false</StudentRoll>
+    </student>
+
+    <student>
+        <studentID>4</studentID>
+        <name>Bert Jefferson</name>
+        <StudentRoll>false</StudentRoll>
+    </student>
+
+    <student>
+        <studentID>5</studentID>
+        <name>Garth Buckner</name>
+        <StudentRoll>false</StudentRoll>
+    </student>
+
+    <student>
+        <studentID>6</studentID>
+        <name>Derek Cameron</name>
+        <StudentRoll>false</StudentRoll>
+    </student>
+
+    <student>
+        <studentID>7</studentID>
+        <name>Dustin Curry</name>
+        <StudentRoll>false</StudentRoll>
+    </student>
+
+    <student >
+        <studentID>8</studentID>
+        <name>Harlan Peck</name>
+        <StudentRoll>false</StudentRoll>
+    </student>
+
+    <student >
+        <studentID>9</studentID>
+        <name>Wayne Randall</name>
+        <StudentRoll>false</StudentRoll>
+    </student>
+
+    <student>
+        <studentID>10</studentID>
+        <name>Craig Pierce</name>
+        <StudentRoll>0</StudentRoll>
+    </student>
+
+    <student>
+        <studentID>11</studentID>
+        <name>Shea Hawkins</name>
+        <StudentRoll>0</StudentRoll>
+    </student>
+
+
+</students>

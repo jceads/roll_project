@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">e-Yoklama</string>
+    <string name="btn_login">Giriş</string>
+    <string name="usernameHint">Kullanıcı Adı</string>
+    <string name="passwordHint">Şifre</string>
+    <string name="btn_here">Var</string>
+    <string name="btN_absent">Yok</string>
+    <string name="listofAbsent">Olmayan Kişiler</string>
+    <string name="FailureLogin">Şifre veya Kullanıcı Adı Hatalı</string>
+    <string name="loginSucces">Giriş Başarılı</string>
+    <string name="absent_person">Olmayan Kişiler</string>
+    <string name="okay">Tamam</string>
+</resources>
